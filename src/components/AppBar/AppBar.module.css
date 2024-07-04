@@ -1,0 +1,12 @@
+html {
+  background-image: url(https://media.istockphoto.com/id/1073363872/ru/векторная/контакт-набор-значков-общение-и-контакты-линейные-значки-линия-с-редактируемым-штрихом.jpg?s=612x612&w=0&k=20&c=JC6K2bsmk5ofJlH60q_QD34d9xCTpW8F9eoh36uTlSA=);
+}
+
+header {
+  background-color: #38b6c9;
+  color: white;
+  padding: 20px 0;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
